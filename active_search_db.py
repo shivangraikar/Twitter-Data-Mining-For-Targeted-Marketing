@@ -71,6 +71,7 @@ for i in searched_tweets:
         
 
 
+       
 conn.commit()
 conn.close()
 
