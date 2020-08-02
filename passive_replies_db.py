@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 13 16:59:31 2019
-
-@author: Parth
-"""
+#passive users who retweet
 
 import time
 import threading
