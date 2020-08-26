@@ -1,0 +1,151 @@
+
+Slot1: 
+(buying mumbai flat) OR 
+(buying mumbai property) OR 
+(buying mumbai real estate) OR 
+(purchasing mumbai flat) OR 
+(purchasing mumbai property) OR 
+(purchasing real estate mumbai) OR 
+(buy mumbai flat) OR 
+(buy mumbai property) OR 
+(buy mumbai real estate) OR 
+(purchase mumbai flat) OR 
+(purchase mumbai property) OR 
+(purchase real estate mumbai) 
+(shift mumbai flat) OR 
+(shifting mumbai flat) OR 
+(shift mumbai property) OR 
+(shifting mumbai property) OR 
+(shift mumbai house) OR 
+(shifting mumbai house) OR
+(move mumbai flat) OR 
+(moving mumbai flat) OR 
+(move mumbai property) OR 
+(moving mumbai property) OR 
+(move mumbai house) OR 
+(moving mumbai house)
+(looking mumbai flat) OR 
+(looking mumbai property) OR 
+(looking mumbai real estate) OR 
+(searching mumbai flat) OR 
+(searching mumbai property) OR 
+(searching real estate mumbai) OR 
+(look mumbai flat) OR 
+(look mumbai property) OR 
+(look mumbai real estate) OR 
+(search mumbai flat) OR 
+(search mumbai property) OR 
+(search real estate mumbai) OR
+(buying mumbai apartment) OR 
+(purchasing mumbai apartment) OR 
+(buy mumbai apartment) OR 
+(purchase mumbai apartment) 
+
+
+
+Slot2: 
+J1:
+(Home decor mumbai) OR 
+(Home Loan mumbai) OR 
+(Furniture mumbai) OR 
+(property for sale mumbai) OR 
+(home for sale mumbai) OR 
+(estate agents mumbai) OR
+(best builders mumbai) OR 
+(realtor mumbai) OR 
+
+J2:
+(sell home mumbai) OR 
+(sell property mumbai) OR 
+(sell house mumbai) OR 
+(sell flat mumbai) OR 
+(interior designer mumbai) OR 
+(house for sale mumbai) OR 
+(flat for sale mumbai) OR
+(home appliance mumbai) OR 
+(vastu mumbai) OR
+(home decorator mumbai)
+
+the above data is to be multipled by 3 to get thane, navi mumbai and mumbai. 
+
+
+Slot3: 
+J3:
+
+(interior decorator mumbai) OR
+(ac purchase mumbai) OR
+(tv purchase mumbai) OR 
+(99acres mumbai) OR
+(housing.com mumbai) OR 
+(magicbricks mumbai) OR
+(nobroker mumbai) OR
+(luxury homes mumbai) OR
+(modern homes mumbai) OR 
+(spacious homes mumbai) OR 
+(clubhouse facilit mumbai) OR
+(gym facilit mumbai) OR
+(township builder mumbai) OR
+(premium builders in mumbai) 
+
+(latest constructions mumbai) OR
+(latest development mumbai) OR
+(fast construction mumbai) OR
+(quality builder mumbai)
+
+multiply by 3
+
+
+
+
+top 20 international travel destinations for mumbaikars.
+
+brand names: mercedez, audi, bmw, volvo,lexus, toyota fortuner.
+
+premium watch brands: charles and keith, tissot, giordano, rado, tommy hilfiger,diesel.
+
+Premium residential localities: Bandra, khar, mahalaxmi and south bombay, worli, vashi, powai,andheri, lokhandwala.
+
+expensive hotel names: taj, marriot, etc.  
+
+
+
+
+
+
+
+
+New:
+(1 BHK in Mumbai) OR
+(2 BHK in Mumbai) OR 
+(3 BHK in Mumbai) OR
+(Mumbai Residency)
+
+
+
+gucci,'qatar','emirates','cathay pacific','bawa internation'
+'ibis hotel'
+'trident'
+ikea
+Zara
+luis vuitton
+cartier
+hermes
+hometown
+pepperfry
+urban ladder
+
+
+Business account:
+'decor','realt','digi','acre','resid','stock','group','article','project','commerc','brick','india','guru','new','market', \
+    'enterp','vastu','astro','estate','mall','hous','Thane','sky','room','home','flat','design','interior','furniture','trend', \
+    'pack','build','work','propert','prop','vastu','gym','loan','luxury','bloomberg','business','direct','time',\
+    'revenue','day','bank','agen','job','minis','corpo','tech', \
+    'boss','nation','associat','develop','broth','invest','people','dna','media','break','bombay','mumbai','thane','lodha','hiranandani','world','estate','logis','team', \
+    'consul','connec','school','tour','finan','asia','multi','apart','hospi','floor','repor','fashion','exhibition','trip','classif','wall','football','cricket',\
+    'welfare','history','income','height','shop','global','hotel','restaurant','office','environ','proje','wood','rent','deal','sale','press','craig',\
+    'bandra','pepper','noise'
+
+
+
+
+
